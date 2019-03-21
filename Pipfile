@@ -13,3 +13,4 @@ python_version = "3.7"
 
 [scripts]
 test = "python -m pytest"
+pascals_triangle = "python -m pascals_triangle"
